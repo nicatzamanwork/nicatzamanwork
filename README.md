@@ -1,6 +1,6 @@
 # Hi there, I'm Nijat Zaman! 👋
 
-[![Linkedin: nicatzamanwork](https://img.shields.io/badge/-nicatzamanwork-blue?style=flat-square&logo=Linkedin&logoColor=white&link[https://www.linkedin.com/in/g%C3%BClxan%C4%B1mekberova/](https://az.linkedin.com/in/nicat-zaman?trk=public_profile_browsemap))]([https://www.linkedin.com/in/g%C3%BClxan%C4%B1mekberova/](https://az.linkedin.com/in/nicat-zaman?trk=public_profile_browsemap))
+[![Linkedin: nicatzamanwork](<https://img.shields.io/badge/-nicatzamanwork-blue?style=flat-square&logo=Linkedin&logoColor=white&link[https://www.linkedin.com/in/g%C3%BClxan%C4%B1mekberova/](https://www.linkedin.com/in/nicat-zaman/)>)](<[https://www.linkedin.com/in/g%C3%BClxan%C4%B1mekberova/](https://az.linkedin.com/in/nicat-zaman?trk=public_profile_browsemap)>)
 [![GitHub Thaiane](https://img.shields.io/github/followers/nicatzamanwork?label=follow&style=social)](https://github.com/nicatzamanwork)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicatzamanwork&layout=compact&theme=gotham&custom_title=Statistics)
