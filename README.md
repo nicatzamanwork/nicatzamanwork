@@ -1,4 +1,4 @@
-# Hi there, I'm Nijat Zaman! 👋
+# Fortis Fortuna Adiuvat 
 
 [![Linkedin: nicat-zaman](<https://img.shields.io/badge/-nicatzamanwork-blue?style=flat-square&logo=Linkedin&logoColor=white&link[https://www.linkedin.com/in/g%C3%BClxan%C4%B1mekberova/](https://www.linkedin.com/in/nicat-zaman/)>)](<[https://www.linkedin.com/in/g%C3%BClxan%C4%B1mekberova/](https://az.linkedin.com/in/nicat-zaman?trk=public_profile_browsemap)>)
 [![GitHub Thaiane](https://img.shields.io/github/followers/nicatzamanwork?label=follow&style=social)](https://github.com/nicatzamanwork)
